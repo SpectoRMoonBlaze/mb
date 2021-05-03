@@ -686,6 +686,8 @@ left: 46%;
 
 
 .spec{
+	height:600px;
+	width:65px;
 	position: absolute;
 	top: 333%;
 	left: 55%;
@@ -707,6 +709,8 @@ left: 46%;
 
 
 .shama{
+	height:600px;
+	width:65px;
 	position: absolute;
 	top: 343%;
 	left: 55%;
@@ -715,6 +719,8 @@ left: 46%;
 	border-radius: 3px;
 }
 .dev{
+	height:600px;
+	width:65px;
 	width: 520px;
 	position: absolute;
 	top: 353%;

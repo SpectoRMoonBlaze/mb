@@ -11,7 +11,7 @@ body{
 	height:900px;
 	width:1000px;
 	position: absolute;
-	top: 50%;
+	top: 70%;
 	left: 50%;
 	background: rgba(0,0,0,.7);
 	transform: translate(-50%,-50%);
